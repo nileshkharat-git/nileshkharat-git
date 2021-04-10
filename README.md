@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nilesh Kharat    
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Node JS
+- Python django developer |   
 - 📫 Contact : +91 9156215152
+-     Email : nil.kharat9@gmail.com
 
 <!---
 nileshkharat-git/nileshkharat-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

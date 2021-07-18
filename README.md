@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m Nilesh Kharat 
+- <h1>👋 Hi, I’m Nilesh
 -  <h3>   Python django developer 🚀   
 - 📫 Contact : +91 9156215152 <br> Email : nil.kharat9@gmail.com
 

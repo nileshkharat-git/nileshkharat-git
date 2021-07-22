@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m Nilesh
--  <h3>   Python django developer 🚀   
+-  <h3>   Web developer 🚀   
 - 📫 Contact : +91 9156215152 <br> Email : nil.kharat9@gmail.com
 
 <!---

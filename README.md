@@ -2,7 +2,7 @@
 -  <h3> Web developer 🚀</h3>   
 
 # 💫 About Me:
-🔭 I’m currently working on <b>Personal finance tracker</b><br>🌱 I’m currently learning <b>next JS and REST API</b><br>💬 Contact me via email at <b>nil.kharat9@gmail.com</b><br>
+🔭🌱 I’m currently learning <b>next JS and REST API</b><br>💬 Contact me via email at <b>nil.kharat9@gmail.com</b><br>
 
 
 ## 🌐 Socials:
